@@ -1,0 +1,6 @@
+{
+  "name": "Livro Caixa - Controle Financeiro",
+  "description": "Aplicativo de controle financeiro pessoal estilo Livro Caixa tradicional para Android com receitas, despesas, saldo acumulado e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
